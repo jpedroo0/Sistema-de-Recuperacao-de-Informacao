@@ -1,3 +1,6 @@
+# Projeto: Organização e Recuperação da Informação
+Sistema de Recuperação da Informação (IR) implementado em Python. Inclui pré-processamento, stemming RSLP, cálculo de Matriz TF-IDF, Índice Invertido e suporte a consultas Booleana, Similaridade e por Frase.
+
 # Sistema-de-Recuperacao-de-Informacao
 
 1. ⚙️ Funcionalidades Principais
@@ -18,5 +21,4 @@
 - João Pedro Inocêncio Campos
 - Sabrina Garcia da Silveira
 
-# Projeto: Organização e Recuperação da Informação
-Sistema de Recuperação da Informação (IR) implementado em Python. Inclui pré-processamento, stemming RSLP, cálculo de Matriz TF-IDF, Índice Invertido e suporte a consultas Booleana, Similaridade e por Frase.
+
